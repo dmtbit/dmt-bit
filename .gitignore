@@ -1,0 +1,30 @@
+# Claude / AI assistant files — never push to GitHub.
+CLAUDE.md
+AGENTS.md
+.claude/
+codex-reports/
+
+# Internal planning files.
+tasks/
+
+# Local conversion / build helper scripts (contain absolute paths).
+scripts/
+
+# Build artifacts and dependencies.
+node_modules/
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+
+# Editors / OS.
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets.
+.env
+.env.*
+!.env.example
