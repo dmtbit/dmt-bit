@@ -1,3 +1,5 @@
+[![$BIT — The bit of Bitcoin](./brand/bit-banner-3000x1000.png)](https://dmt-bit.com)
+
 # $BIT — The bit of Bitcoin
 
 [![Website](https://img.shields.io/badge/website-dmt--bit.com-f7931a?style=flat-square)](https://dmt-bit.com)
