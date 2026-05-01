@@ -140,11 +140,12 @@ appreciated but not required.
 
 ---
 
-## Links
+## Links & contact
 
 - **Website**: <https://dmt-bit.com>
 - **BITpaper**: <https://dmt-bit.com/bitpaper>
 - **Documentation**: <https://dmt-bit.com/docs>
 - **How to mint**: <https://dmt-bit.com/docs/how-to-mint>
 - **Twitter / X**: <https://x.com/dmt_bit_>
+- **Email**: <hello@dmt-bit.com>
 - **About / disclaimer**: <https://dmt-bit.com/legal>
